@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/pranay/esp/esp-idf/RTOS/day4/Q1/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/pranay/esp/esp-idf/RTOS/day4/Q1/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/pranay/esp/esp-idf/RTOS/day4/Q1/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/pranay/esp/esp-idf/RTOS/day4/Q1/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/pranay/esp/esp-idf/RTOS/day4/Q1/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/pranay/esp/esp-idf/RTOS/day4/Q1/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/pranay/esp/esp-idf/RTOS/day4/Q1/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "/home/pranay/esp/esp-idf/RTOS/day4/Q1/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/pranay/esp/esp-idf/RTOS/day4/Q1/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/pranay/esp/esp-idf/RTOS/day4/Q1/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
